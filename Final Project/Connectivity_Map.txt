@@ -1,0 +1,9 @@
+Vancouver North_Vancouver 12
+Langley West_Vancouver 2
+Coquitlam Richmond 7
+Port_Moody Abbotsford 9
+North_Vancouver Langley 10
+Burnaby Surrey 9
+Langley Coquitlam 6
+Coquitlam Port_Moody 11
+West_Vancouver Richmond 7
